@@ -1,0 +1,25 @@
+{
+  "name": "100algorithmschallenge",
+  "version": "1.0.0",
+  "description": "100 Alogrithms challenge that will include solutions and comments on how the solutions are formed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nwillia3/100AlgoChallenge.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data",
+    "structures",
+    "100AlgoChallenge"
+  ],
+  "author": "Neil Williams courtesy of Dylan Israel Udemy Course",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nwillia3/100AlgoChallenge/issues"
+  },
+  "homepage": "https://github.com/Nwillia3/100AlgoChallenge#readme"
+}
